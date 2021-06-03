@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T02:27:55.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="dqgkl-WNudysB0pSFQa2" version="14.7.4" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-03T03:03:46.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="YPM49WAyi8eQAzg4tVPg" version="14.7.4" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="1422" dy="804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Dali::Toolkit::Internal::Control::Impl" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="288" y="65" width="201" height="302" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
+          <mxGeometry x="95.5" y="67" width="10" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-3" value="Control::Impl::Impl" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" target="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-15" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnaR4ozYGQvdWh-q8RGk-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
+          <mxGeometry x="96" y="163" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="Dali::Accessibility::Accessible" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="542" y="66" width="184" height="301" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+          <mxGeometry x="87" y="75" width="10" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="RnaR4ozYGQvdWh-q8RGk-3" value="Get" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=open;startSize=6;endSize=8;rounded=1;arcSize=10;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5" target="RnaR4ozYGQvdWh-q8RGk-5">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="12" y="147" as="sourcePoint" />
+            <mxPoint x="92" y="147" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnaR4ozYGQvdWh-q8RGk-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry x="87" y="143" width="10" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="RegisterControlAccessibilityGetter" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="468" y="147" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnaR4ozYGQvdWh-q8RGk-2" value="functor를 등록" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="646" y="131" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RnaR4ozYGQvdWh-q8RGk-4" value="functor를 사용" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="646" y="208" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RnaR4ozYGQvdWh-q8RGk-6" value="GetAccessibilityObect" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1.086;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="629" y="238.75" as="sourcePoint" />
+            <mxPoint x="394.86" y="238.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnaR4ozYGQvdWh-q8RGk-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="390" y="273" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RnaR4ozYGQvdWh-q8RGk-9" value="accessibilityConstructor" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="RnaR4ozYGQvdWh-q8RGk-8" parent="1" source="RnaR4ozYGQvdWh-q8RGk-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="253" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="425" y="253" />
+              <mxPoint x="425" y="273" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnaR4ozYGQvdWh-q8RGk-11" value="&lt;span style=&quot;font-family: &amp;#34;맑은 고딕&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Dali::Toolkit::DevelControl::AccessibleImpl&lt;/font&gt;&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="74" y="228" width="264" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="RnaR4ozYGQvdWh-q8RGk-12" value="AccessibleImpl" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.943;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RnaR4ozYGQvdWh-q8RGk-8" target="RnaR4ozYGQvdWh-q8RGk-13">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="389" y="297" as="sourcePoint" />
+            <mxPoint x="244" y="297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnaR4ozYGQvdWh-q8RGk-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="201" y="284" width="10" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="RnaR4ozYGQvdWh-q8RGk-14" value="Dali::WeakHandle&amp;lt;Dali::Actor&amp;gt; self 가&lt;br&gt;Control::Impl을 reference" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="24" y="326" width="222" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="RnaR4ozYGQvdWh-q8RGk-15" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="211" y="311" as="sourcePoint" />
+            <mxPoint x="390" y="311" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RnaR4ozYGQvdWh-q8RGk-16" value="std::unique_ptr&amp;lt;Dali::Accessibility::Accessible&amp;gt;&lt;br&gt;&amp;nbsp;accessibilityObject 으로&lt;br&gt;Dali::Toolkit::DevelControl::AccessibleImpl을 reference" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="269" y="321" width="316" height="66" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
