@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T11:30:37.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="v7bmb3kDYL4VjJwUS119" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T11:03:58.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="FESytmdcfGYLYZIrb_D7" version="14.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-10" value="Dali::Accessibility&#xa;::Bridge" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="731" y="85" width="160" height="100" as="geometry" />
+          <mxGeometry x="658" y="85" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-11" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-aiQwq8CIg034yayet1E-10" vertex="1">
           <mxGeometry y="40" width="160" height="26" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry y="74" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-14" value="BridgeBase" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="731" y="235" width="160" height="86" as="geometry" />
+          <mxGeometry x="658" y="235" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-15" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-aiQwq8CIg034yayet1E-14" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-18" value="BridgeAccessible" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="662" y="376" width="160" height="86" as="geometry" />
+          <mxGeometry x="589" y="376" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-19" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-aiQwq8CIg034yayet1E-18" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-22" value="BridgeObject" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="863" y="376" width="160" height="86" as="geometry" />
+          <mxGeometry x="790" y="376" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-23" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-aiQwq8CIg034yayet1E-22" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -84,27 +84,27 @@
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-26" value="" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="-aiQwq8CIg034yayet1E-13" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="811" y="235" as="sourcePoint" />
-            <mxPoint x="807" y="186" as="targetPoint" />
+            <mxPoint x="738" y="235" as="sourcePoint" />
+            <mxPoint x="734" y="186" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-27" value="" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.488;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.406;exitY=-0.035;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-aiQwq8CIg034yayet1E-18" target="-aiQwq8CIg034yayet1E-17" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="821" y="245" as="sourcePoint" />
-            <mxPoint x="823.0799999999999" y="195" as="targetPoint" />
+            <mxPoint x="748" y="245" as="sourcePoint" />
+            <mxPoint x="750.0799999999999" y="195" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="727" y="355" />
-              <mxPoint x="809" y="355" />
+              <mxPoint x="654" y="355" />
+              <mxPoint x="736" y="355" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-28" value="" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.65;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.306;exitY=0.012;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-aiQwq8CIg034yayet1E-22" target="-aiQwq8CIg034yayet1E-17" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="805.96" y="371.99" as="sourcePoint" />
-            <mxPoint x="819.0799999999999" y="330.01199999999994" as="targetPoint" />
+            <mxPoint x="732.96" y="371.99" as="sourcePoint" />
+            <mxPoint x="746.0799999999999" y="330.01199999999994" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="912" y="355" />
-              <mxPoint x="835" y="355" />
+              <mxPoint x="839" y="355" />
+              <mxPoint x="762" y="355" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-35" value="BridgeImpl" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="758" y="525" width="160" height="86" as="geometry" />
+          <mxGeometry x="685" y="525" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-36" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="-aiQwq8CIg034yayet1E-35" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -128,19 +128,19 @@
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-39" value="" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.594;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.406;exitY=-0.035;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="778" y="525" as="sourcePoint" />
-            <mxPoint x="778.04" y="461.01199999999994" as="targetPoint" />
+            <mxPoint x="705" y="525" as="sourcePoint" />
+            <mxPoint x="705.04" y="461.01199999999994" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="778.04" y="507.01" />
+              <mxPoint x="705.04" y="507.01" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-aiQwq8CIg034yayet1E-40" value="" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.594;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.406;exitY=-0.035;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="898" y="525" as="sourcePoint" />
-            <mxPoint x="898.04" y="461.01199999999994" as="targetPoint" />
+            <mxPoint x="825" y="525" as="sourcePoint" />
+            <mxPoint x="825.04" y="461.01199999999994" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="898.04" y="507.01" />
+              <mxPoint x="825.04" y="507.01" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -162,20 +162,29 @@
             <mxPoint x="427" y="365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="883oLl3eGzKlxmCkxeg9-0" value="Internal::Control&amp;amp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;internalControl = Toolkit::Internal::GetImplementation(control);&lt;br&gt;&amp;nbsp; Internal::Control::Impl&amp;amp; controlImpl&amp;nbsp; &amp;nbsp; &amp;nbsp;= Internal::Control::Impl::Get(internalControl);&lt;br&gt;&lt;br&gt;dali/devel-api/adaptor-framework/accessibility-impl.h 에는 Dali::Accessibility::Bridge - BridgeBase가 사용&lt;br&gt;dali/devel-api/adaptor-framework/atspi-accessibility.h 에는 Dali::AtspiAccessibility - NUI(csharp-bider)가 사용" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="883oLl3eGzKlxmCkxeg9-0" value="Internal::Control&amp;amp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;internalControl = Toolkit::Internal::GetImplementation(control);&lt;br&gt;&amp;nbsp; Internal::Control::Impl&amp;amp; controlImpl&amp;nbsp; &amp;nbsp; &amp;nbsp;= Internal::Control::Impl::Get(internalControl);&lt;br&gt;&lt;br&gt;dali/devel-api/adaptor-framework/accessibility-impl.h 에는 Dali::Accessibility::Bridge - BridgeBase가 사용&lt;br&gt;dali/devel-api/adaptor-framework/atspi-accessibility.h 에는 Dali::AtspiAccessibility - NUI(csharp-bider)가 사용" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="83" y="685" width="671" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="883oLl3eGzKlxmCkxeg9-1" value="Dali::Toolkit::Internal&#xa;::Control::Impl" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=39;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="883oLl3eGzKlxmCkxeg9-1" value="Dali::Toolkit::Internal&#xa;::Control::Impl" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=39;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="53" y="410" width="218" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="883oLl3eGzKlxmCkxeg9-2" value="friend class&#xa;Toolkit::DevelControl::AccessibleImpl" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="883oLl3eGzKlxmCkxeg9-1">
+        <mxCell id="883oLl3eGzKlxmCkxeg9-2" value="friend class&#xa;Toolkit::DevelControl::AccessibleImpl" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="883oLl3eGzKlxmCkxeg9-1" vertex="1">
           <mxGeometry y="39" width="218" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="883oLl3eGzKlxmCkxeg9-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="883oLl3eGzKlxmCkxeg9-1">
+        <mxCell id="883oLl3eGzKlxmCkxeg9-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="883oLl3eGzKlxmCkxeg9-1" vertex="1">
           <mxGeometry y="84" width="218" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="883oLl3eGzKlxmCkxeg9-4" value="+ DoAction" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="883oLl3eGzKlxmCkxeg9-1">
+        <mxCell id="883oLl3eGzKlxmCkxeg9-4" value="+ DoAction" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="883oLl3eGzKlxmCkxeg9-1" vertex="1">
           <mxGeometry y="92" width="218" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SPHexc9reEcznU_EZ9R2-0" value="AppAccessible" style="html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="914" y="253" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SPHexc9reEcznU_EZ9R2-1" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SPHexc9reEcznU_EZ9R2-0" target="-aiQwq8CIg034yayet1E-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="832" y="208" as="sourcePoint" />
+            <mxPoint x="820" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
